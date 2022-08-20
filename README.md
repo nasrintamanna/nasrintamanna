@@ -21,12 +21,11 @@
 
 ## 👨‍💻 About Me
 
-Hello, I am Souparna Bhowmik a Software Engineer at Accenture. I have done my Bachalor of Technology with Honors-B.tech(Hons.) in Electrical Engineering[2018-2022] from Maulana Abul Kalam Azad University of Technology(Formerly known as WBUT) with CGPA of 8.7.
+Hello, I am Tamanna Nasrin, a Student at Institute of Engineering and Management, Kolkata. I'm currently pursuing Bachalor of Technology -B.tech in Computer Science Engineering (AI)[2021-2025] from Institute of Engineering and Management, Kolkata.
 
-I'm a Quick learner, always wanna learn and explore new technologies and build something awesome, which will make peoples life easier.
-I'm a team player too. I love to work with people in a healthy competitive environment. As a robotics team we have won prizes in many college fests, before COVID (miss those days😢). Check out our Facebook page [Team Strangers](https://www.facebook.com/WeTeamStrangers).
+ttt
 
-Feel free to contact with me via [LinkedIn](https://www.linkedin.com/in/souparna-bhowmik/).
+Feel free to contact with me via [LinkedIn](https://www.linkedin.com/in/tamanna-nasrin-109287229/).
 
 <br>
 
