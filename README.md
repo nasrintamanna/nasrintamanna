@@ -23,13 +23,23 @@
 
 
 <br>
-[![Tamanna's GitHub activity graph](https://activity-graph.herokuapp.com/graph?username=nasrintamanna&&theme=xcode)](https://github.com/nasrintamanna)
+<br>
 
-<p><img align="left" src="https://github-readme-stats.vercel.app/api/top-langs?username=nasrintamanna&show_icons=true&locale=en&layout=compact&theme=tokyonight" alt="nasrintamanna" /></p>
+## 💁🏻‍♀️ My GitHub Status
 
-<p>&nbsp;<img align="center" src="https://github-readme-stats.vercel.app/api?username=nasrintamanna&show_icons=true&locale=en&theme=tokyonight" alt="nasrintamanna" /></p>
+<br>
+<br>
 
-<p><img align="center" src="https://github-readme-streak-stats.herokuapp.com/?user=nasrintamanna&&theme=tokyonight" alt="nasrintamanna" /></p>
+
+<a href=""><img src="https://github.com/nasrintamanna/nasrintamanna/blob/main/giphy.gif" align="right" width="275" height="150" /></a>
+[![GitHub Streak](http://github-readme-streak-stats.herokuapp.com?user=nasrintamanna&theme=tokyonight&hide_border=true)](https://git.io/streak-stats)
+<br>
+<br>
+![Github stats](https://github-readme-stats.vercel.app/api?username=nasrintamanna&theme=tokyonight&show_icons=true&count_private=true)
+<a href=""><img src="https://github.com/nasrintamanna/nasrintamanna/blob/main/tenor.gif" align="right" width="275rem" height="175rem" /></a>
+<br>
+<br>
+[![Souparna's github activity graph](https://github-readme-activity-graph.cyclic.app/graph?username=nasrintamanna&theme=react-dark)](https://github.com/nasrintamanna/github-readme-activity-graph)
 <br>
 <br>
 <h1 align="center">Thank you 🙏</h1>
