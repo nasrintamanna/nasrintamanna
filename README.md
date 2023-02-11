@@ -6,7 +6,7 @@
 <p align="left"> <img src="https://komarev.com/ghpvc/?username=nasrintamanna&label=Profile%20views&color=0e75b6&style=flat" alt="nasrintamanna" /> </p>
 
 - 🏫  Student at Institute of Engineering and Management, Kolkata.
-- 🌱  Currently learning Web-dev, Blockchain.
+- 🌱  Currently learning Web-dev.
 - 📫  How to reach me **nasrintamanna19@gmail.com**
 
 <br>
