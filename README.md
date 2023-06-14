@@ -35,7 +35,7 @@
 [![GitHub Streak](http://github-readme-streak-stats.herokuapp.com?user=nasrintamanna&theme=tokyonight&hide_border=true)](https://git.io/streak-stats)
 <br>
 <br>
-![Github stats](https://github-readme-stats.vercel.app/api?username=nasrintamanna&theme=tokyonight&show_icons=true&count_private=true)
+![Github stats](https://github-readme-stats-sigma-five.vercel.app/api?username=nasrintamanna&theme=tokyonight&show_icons=true&count_private=true)
 <a href=""><img src="https://github.com/nasrintamanna/nasrintamanna/blob/main/tenor.gif" align="right" width="275rem" height="175rem" /></a>
 <br>
 <br>
