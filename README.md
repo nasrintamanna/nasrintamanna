@@ -39,7 +39,8 @@
 <a href=""><img src="https://github.com/nasrintamanna/nasrintamanna/blob/main/tenor.gif" align="right" width="275rem" height="175rem" /></a>
 <br>
 <br>
-[![Tamanna's github activity graph](https://github-readme-activity-graph.cyclic.app/graph?username=nasrintamanna&theme=react-dark)](https://github.com/nasrintamanna/github-readme-activity-graph)
+[![Tamanna's github activity graph](https://github-readme-activity-graph.vercel.app/graph?username=nasrintamanna&theme=react-dark))](https://github.com/nasrintamanna/github-readme-activity-graph)
+
 <br>
 <br>
 <h1 align="center">Thank you 🙏</h1>
