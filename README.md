@@ -25,7 +25,7 @@
 <br>
 <br>
 
-## 💁🏻‍♀️ My GitHub Status
+## 💁🏻‍♀️  My GitHub Status
 
 <br>
 <br>
