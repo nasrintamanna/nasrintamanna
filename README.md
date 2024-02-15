@@ -7,7 +7,7 @@
 
 - 🏫  Student at Institute of Engineering and Management, Kolkata.
 - 🌱  Currently learning Web-dev.
-- 📫  How to reach me **nasrintamanna19@gmail.com**
+- 📫  How to reach me **official.tamanna22@gmail.com**
 
 <br>
 <h3 align="left">Connect with me:</h3>
